@@ -37,6 +37,12 @@ Scripts for microscopy image processing and quantitative analysis of nuclear mor
 
 ---
 
+### `LargeFeatureAnalysis/`
+
+Code for analyzing large-scale chromatin features: polymer scalings, Interchromosomal Fraction of Interactions (ICF), Polycomb loops and Compartments in neuronal and non-neuronal cells from schizophrenia patients and healthy controls.
+
+---
+
 ### `FineFeatureAnalysis/`
 
 Code for analyzing fine-scale chromatin features: topologically associating domains (TADs) and chromatin loops in neuronal and non-neuronal cells from schizophrenia patients and healthy controls.
