@@ -41,8 +41,11 @@ Scripts for microscopy image processing and quantitative analysis of nuclear mor
 
 Code for analyzing fine-scale chromatin features: topologically associating domains (TADs) and chromatin loops in neuronal and non-neuronal populations from schizophrenia patients and healthy controls.
 
-**Data source:**
-- GEO accessions: **GSE330768**, **GSE229816**, **GSE291967**
+---
+
+### `SNPContactAnalysis/`
+
+Code for detection of significant, variant-sensitive, interactions and their downstream analysis.
 
 ---
 
