@@ -1,0 +1,34 @@
+# Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv
+venv/
+
+# Editor
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Development notes
+*_dev.md
+
+# Large data files 
+*.pickle
+*.pkl
+*.hdf5
+*.h5
+FineFeatureAnalysis/**/expected_maps/
+FineFeatureAnalysis/**/pca_res_*.csv
