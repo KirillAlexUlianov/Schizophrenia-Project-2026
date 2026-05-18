@@ -82,9 +82,9 @@ For questions regarding the code or datasets, please contact the corresponding a
 ---
 ## References
 
-Akbarian, S., Liu, C., Knowles, J. A., Vaccarino, F. M., Farnham, P. J., Crawford, G. E., Jaffe, A. E., Pinto, D., Dracheva, S., Geschwind, D. H., Mill, J., Nairn, A. C., Abyzov, A., Pochareddy, S., Prabhakar, S., Weissman, S., Sullivan, P. F., State, M. W., Weng, Z., � Sestan, N. (2015). The PsychENCODE project. Nature Neuroscience, 18(12), 1707�1712. https://doi.org/10.1038/nn.4156 
+Akbarian, S., Liu, C., Knowles, J. A., Vaccarino, F. M., Farnham, P. J., Crawford, G. E., Jaffe, A. E., Pinto, D., Dracheva, S., Geschwind, D. H., Mill, J., Nairn, A. C., Abyzov, A., Pochareddy, S., Prabhakar, S., Weissman, S., Sullivan, P. F., State, M. W., Weng, Z., & Sestan, N. (2015). The PsychENCODE project. Nature Neuroscience, 18(12), 1707-1712. https://doi.org/10.1038/nn.4156 
 
-Pletenev, I. A., Bazarevich, M., Zagirova, D. R., Kononkova, A. D., Cherkasov, A. V., Efimova, O. I., Tiukacheva, E. A., Morozov, K. V., Ulianov, K. A., Komkov, D., Tvorogova, A. V., Golimbet, V. E., Kondratyev, N. V., Razin, S. V., Khaitovich, P., Ulianov, S. V., & Khrameeva, E. E. (2024). Extensive long-range polycomb interactions and weak compartmentalization are hallmarks of human neuronal 3D genome. Nucleic Acids Research, 52(11), 6234�6252. https://doi.org/10.1093/nar/gkae271 
+Pletenev, I. A., Bazarevich, M., Zagirova, D. R., Kononkova, A. D., Cherkasov, A. V., Efimova, O. I., Tiukacheva, E. A., Morozov, K. V., Ulianov, K. A., Komkov, D., Tvorogova, A. V., Golimbet, V. E., Kondratyev, N. V., Razin, S. V., Khaitovich, P., Ulianov, S. V., & Khrameeva, E. E. (2024). Extensive long-range polycomb interactions and weak compartmentalization are hallmarks of human neuronal 3D genome. Nucleic Acids Research, 52(11), 6234-6252. https://doi.org/10.1093/nar/gkae271 
 
 Pletenev, I. A., Vaulin, N., Molodova, M. N., Kuznechenkova, E., Soldatenkova, A., Efimova, O. I., Tvorogova, A. V., Khaitovich, P., Razin, S. V., Ulianov, S. V., & Khrameeva, E. E. (2025). Ultra-long-range Polycomb-coupled interactions underlie subtype identity of human cortical neurons (p. 2025.11.05.686502). bioRxiv. https://doi.org/10.1101/2025.11.05.686502 
 
