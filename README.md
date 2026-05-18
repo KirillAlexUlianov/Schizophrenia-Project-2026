@@ -39,7 +39,7 @@ Scripts for microscopy image processing and quantitative analysis of nuclear mor
 
 ### `FineFeatureAnalysis/`
 
-Code for analyzing fine-scale chromatin features: topologically associating domains (TADs) and chromatin loops in neuronal and non-neuronal populations from schizophrenia patients and healthy controls.
+Code for analyzing fine-scale chromatin features: topologically associating domains (TADs) and chromatin loops in neuronal and non-neuronal cells from schizophrenia patients and healthy controls.
 
 ---
 
